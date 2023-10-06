@@ -1,0 +1,21 @@
+{
+  "SheetName": "시트1",
+
+  "NumberOfTeams": 368,
+
+  "OrganizationColumnIndex": 1,
+  "SportsColumnIndex": 2,
+  "TeamNumberColumnIndex": 3,
+  "TeamNameColumnIndex": 4,
+
+  "Sport_LEGO_ROBOT_SUMO_1KG": "LEGO Robot Sumo 1kg",
+  "Sport_LEGO_ROBOT_SUMO_3KG": "LEGO Robot Sumo 3kg",
+  "Sport_LEGO_LINE_FOLLOWING_E": "LEGO Line Following 초등",
+  "Sport_LEGO_LINE_FOLLOWING_MH": "LEGO Line Following 중고등",
+  "Sport_LEGO_FOLKRACE_E": "LEGO Folkrace 초등",
+  "Sport_LEGO_FOLKRACE_MH": "LEGO Folkrace 중고등",
+  "Sport_LEGO_SHOTPUT_E": "LEGO Shotput 초등",
+  "Sport_LEGO_SHOTPUT_MH": "LEGO Shotput 중고등",
+  "Sport_LEGO_FOOTBALL": "LEGO Football",
+  "Sport_OPEN_FOLKRACE_MH": "OPEN Folkrace 중고등"
+}

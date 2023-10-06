@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<plugins>
+  <plugin>
+    <name>EPPlus</name>
+    <version>6.2.9</version>
+    <target-framework>.NET Standard2.1</target-framework>
+  </plugin>
+  <plugin>
+    <name>EPPlus.System.Drawing</name>
+    <version>6.1.1</version>
+    <target-framework>.NET Standard2.1</target-framework>
+  </plugin>
+  <plugin>
+    <name>EPPlus.Interfaces</name>
+    <version>6.1.1</version>
+    <target-framework>.NET Standard2.1</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.Configuration.Abstractions</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.Primitives</name>
+    <version>7.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.io.RecyclableMemoryStream</name>
+    <version>2.2.0</version>
+    <target-framework>.NET Standard2.1</target-framework>
+  </plugin>
+  <plugin>
+    <name>System.Runtime.CompilerServices.Unsafe</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.Configuration.FileExtensions</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.FileProviders.Abstractions</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.Configuration</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.Configuration.Json</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.FileProviders.Physical</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>System.Text.Json</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>System.Text.Encodings.Web</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Bcl.AsyncInterfaces</name>
+    <version>1.1.0</version>
+    <target-framework>.NET Standard2.1</target-framework>
+  </plugin>
+  <plugin>
+    <name>Microsoft.Extensions.FileSystemGlobbing</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+  <plugin>
+    <name>System.Drawing.Common</name>
+    <version>6.0.0</version>
+    <target-framework>.NET Standard2.0</target-framework>
+  </plugin>
+</plugins>
